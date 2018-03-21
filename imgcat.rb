@@ -7,7 +7,7 @@ class Imgcat < Formula
   homepage "https://github.com/gnachman/iTerm2"
   url "https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgcat"
   version '0.0.1'
-  sha256 "29228ae0190125e873cc54371604c51f41f6839eda80919e33ebc19b6b1906e6"
+  sha256 "5d471f24d512143796b81de873fb7b6660b0a57bc1c99bb26fd1c9ef8dff64de"
 
   def install
     bin.install 'imgcat'
